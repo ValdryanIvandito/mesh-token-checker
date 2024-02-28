@@ -1,16 +1,48 @@
-# My first Try Using Mesh.js (Cardano Web3 Library)
+# Cardano Token Checker
 
-This is my first experiment to try and learn the Cardano Web3 Mesh.js library. The purpose of this experiment is to find and check whether there is a wallet that has an NFT or token.
+This is my first attempt to try and learn the Cardano Web3 Mesh.js library. The goal of this experiment is to find and check whether a wallet has a token or NFT by searching for its name and policy ID.
 
-Here is a reference link to the Mesh.js documentation that I studied: https://meshjs.dev/guides/nextjs
+Here is a reference [link](https://meshjs.dev/guides/nextjs) to the Mesh documentation that I studied. The code I made is a modification of the reference.
 
-The code I made is a modification of the reference above. To see how it works, let's watch the following video documentation.
+## Demo
+
+To see how it works, let's watch the following video documentation.
+Here is a video documentaion [link](https://www.linkedin.com/feed/update/urn:li:activity:7112984315126284288/)
 
 ## Getting Started
 
+### Clone The Repository
 
-First, run the development server:
+```bash
+git clone https://github.com/ValdryanIvandito/mesh-token-checker.git
+```
+
+### Go to the Directory
+
+```bash
+cd mesh-token-checker
+```
+
+### Install Dependencies:
+
+```bash
+yarn
+```
+
+_or_
+
+```bash
+npm i
+```
+
+### Run The Development Server
 
 ```bash
 yarn dev
+```
+
+_or_
+
+```bash
+npp run dev
 ```
