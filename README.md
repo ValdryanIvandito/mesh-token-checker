@@ -44,5 +44,5 @@ yarn dev
 _or_
 
 ```bash
-npp run dev
+npm run dev
 ```
