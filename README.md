@@ -7,7 +7,7 @@ Here is a reference [link](https://meshjs.dev/guides/nextjs) to the Mesh documen
 ## Demo
 
 To see how it works, let's watch the following video documentation.
-Here is a video documentaion [link](https://www.linkedin.com/feed/update/urn:li:activity:7112984315126284288/)
+Here is a video documentation [link](https://www.linkedin.com/feed/update/urn:li:activity:7112984315126284288/)
 
 ## Getting Started
 
